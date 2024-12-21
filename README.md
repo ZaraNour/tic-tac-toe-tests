@@ -43,6 +43,6 @@ Steps:
 4.Verify the game board reflects the state corresponding to that move.
 
 ## Project Structure
-cypress/e2e/: Contains test cases.
-cypress/support/pageObjects/: Contains Page Object Model classes.
-README.md: Project documentation.
+1. cypress/e2e/: Contains test cases.
+2. cypress/support/pageObjects/: Contains Page Object Model classes.
+3. README.md: Project documentation.
